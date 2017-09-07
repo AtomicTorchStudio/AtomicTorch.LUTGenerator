@@ -1,5 +1,5 @@
 # LUTGenerator
-This simple C# console application produces an identity 3D LUT of any specified size unwrapped as a stripe texture in the lossless PNG image format (RGB 24 bit).   
+This simple C# Windows console application produces an identity 3D LUT of any specified size unwrapped as a stripe texture in the lossless PNG image format (RGB 24 bit).   
 The resulting 3D LUT is verified to be 100% correct.   
 It was a problem for me to find a 100% correct identity 32x32x32 LUT (unwrapped as 1024x32) online so I wrote this application.
 
