@@ -15,4 +15,6 @@ Learn more about 3D LUT and its application for color grading in video games:
 Application requirements: .NET Framework 4.0 (client profile).
 Build requirements: Visual Studio 2015 or newer.
 
+The application was created as a part of the post-processing pipeline in CryoFall game by AtomicTorch Studio http://atomictorch.com/
+
 MIT License.
